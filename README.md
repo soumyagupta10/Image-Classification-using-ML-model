@@ -26,7 +26,7 @@ Technologies used in this project:
 Machine learning concepts used here are:
 
 * Logistic Regression
-* SUpport Vector Machine
+* Support Vector Machine
 * Random Forest
 * K Fold Cross Validation
 * Hyper Parameter Tuning (Grid Search CV)
