@@ -1,5 +1,4 @@
 # Image-Classification-using-ML-model
-Using ML model
 
 In this data science and machine learning project, we are classifing sports personalities. (The concept can be use to predict faces of different people n generel). Here we are restricting our classification to only 5 people:
 
