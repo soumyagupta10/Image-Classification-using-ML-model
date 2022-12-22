@@ -24,6 +24,14 @@ Technologies used in this project:
 * Sklearn for model building
 * Jupyter notebook  as IDE
 
+Machine learning concepts used here are:
+
+* Logistic Regression
+* SUpport Vector Machine
+* Random Forest
+* K Fold Cross Validation
+* Hyper Parameter Tuning (Grid Search CV)
+* Joblib and Pickle
 
 _PS: This is my first ML project. And I am really glad that with the help of this project I could learn the crux of ML algoritms. I am excited and lookimg forward to apply this concept of image classification in future projects in a much more interesting concept._
 
